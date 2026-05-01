@@ -7,3 +7,4 @@ A Pi-hole compatible blocklist that blocks unreliable, biased, and conspiracy-dr
 1. In the Pi-hole admin panel, go to **Lists**
 2. Paste the URL ( `https://raw.githubusercontent.com/OwlCaribou/FakeNewsBlocklist/refs/heads/main/fake_news.txt` ) into the "Address" box.
 3. Click "Add blocklist"
+4. Done!
