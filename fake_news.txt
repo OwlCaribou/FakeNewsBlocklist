@@ -416,6 +416,7 @@
 0.0.0.0 demopolistimes.com
 0.0.0.0 denvergazette.com
 0.0.0.0 derechadiario.ar
+0.0.0.0 desantisdaily.com
 0.0.0.0 deseret.com
 0.0.0.0 desertsun.com
 0.0.0.0 detroitnews.com
