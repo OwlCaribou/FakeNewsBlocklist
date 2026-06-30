@@ -40,6 +40,7 @@
 0.0.0.0 acallforanuprising.com
 0.0.0.0 aclj.org
 0.0.0.0 acsh.org
+0.0.0.0 activelyunwoke.com
 0.0.0.0 activistpost.com
 0.0.0.0 acton.org
 0.0.0.0 actualized.org
@@ -1150,6 +1151,7 @@
 0.0.0.0 populistwire.com
 0.0.0.0 portsmouth-dailytimes.com
 0.0.0.0 positivehealthwellness.com
+0.0.0.0 posthillpress.com
 0.0.0.0 post-gazette.com
 0.0.0.0 post-journal.com
 0.0.0.0 postbulletin.com
